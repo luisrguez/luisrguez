@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Luis, soy ingeniero en Comunicaciones y Electrónica, busco desarrollarme y aprender acerca de todo lo relacionado con los sistemas  de información.
+
+
+
 
 <!--
 **luisrguez/luisrguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
