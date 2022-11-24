@@ -8,8 +8,7 @@ Existen muchas personas a mi alrededor que me inspiraron y me motivaron para est
 
 <img align='center' src="./0df7245c-07ee-4ca3-ab95-f8fd958bbfdb.jpeg" width="400px">
 
-
-
+<img align='right' src="./IMG_0690" width="400px">
 
 
 <!--
